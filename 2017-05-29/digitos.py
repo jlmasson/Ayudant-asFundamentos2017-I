@@ -21,5 +21,6 @@ while n > 0: # n != 0
 	totalDigitos += 1 # Cuento el dígito. Nótese que es la cantidad de divisiones
 	n //= 10 # Actualizo el número
 
+# Muestra por pantalla la suma y el total de dígitos que tiene el número.
 print("La suma de los digitos es {}".format(sumaDigitos))
 print("El total de dígitos es {}".format(totalDigitos))
