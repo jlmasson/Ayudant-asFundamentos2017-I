@@ -1,8 +1,3 @@
-#
-#Autor: José Luis Masson (Pepe Lucho)
-#
-
-
 # Pida la edad al usuario y determine
 # de acuerdo al rango su nominación:
 
