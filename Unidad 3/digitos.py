@@ -1,3 +1,8 @@
+#
+#Autor: José Luis Masson (Pepe Lucho)
+#
+
+
 # Dado un número:
 # Calcular la cantidad de dígitos que tiene y la respectiva suma de estos
 
