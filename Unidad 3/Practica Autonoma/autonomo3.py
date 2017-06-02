@@ -1,3 +1,8 @@
+#
+#Autor: José Luis Masson (Pepe Lucho)
+#
+
+
 # Para menús, se trata de emular lo que hace un lazo do - while (no disponible en Python)
 # El lazo do - while, primero ejecuta las sentencias del lazo, y luego verifica la condición.
 # En cambio, el lazo while primero verifica y después ejecuta las sentencias del lazo.

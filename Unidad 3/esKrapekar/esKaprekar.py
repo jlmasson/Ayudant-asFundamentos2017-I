@@ -1,3 +1,8 @@
+#
+#Autor: José Luis Masson (Pepe Lucho)
+#
+
+
 n = int(input("Ingrese número: ")) # Pido el número
 
 cuadrado = n ** 2 # Elevo el numero al cuadrado
