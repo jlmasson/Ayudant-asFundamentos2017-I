@@ -8,7 +8,7 @@ vowels = ['a', 'e', 'i', 'o','u']
 long = len(intro)
 
 for i in (0, long):
-	for x in(i+1, long):
+	for x in(i+1):
 		if intro[i] in vowels:
 			slc = intro[i:x]
 			kevin = kevin + 1
