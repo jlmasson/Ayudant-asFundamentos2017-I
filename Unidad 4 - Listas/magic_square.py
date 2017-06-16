@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 #
 #Autor: Madelyne Velasco
 #
